@@ -127,6 +127,20 @@ These results should be interpreted cautiously because some ownership groups hav
 - 53 of the 68 represented cities have only one hospital.
 - 77.9% of represented cities have only one listed hospital.
 
+## Visualizations
+
+### Colorado Hospitals by Ownership Group
+
+![Colorado Hospitals by Ownership Group](results/colorado_hospitals_by_ownership.png)
+
+Nonprofit hospitals represent the largest ownership group in Colorado, followed by government and for-profit hospitals.
+
+### Colorado Hospitals by Hospital Type
+
+![Colorado Hospitals by Hospital Type](results/colorado_hospitals_by_type.png)
+
+Acute care hospitals are the most common hospital type in Colorado, while critical access hospitals represent the second-largest group.
+
 ## Main Conclusion
 
 Colorado's hospital system includes a large number of acute care and critical access hospitals, with nonprofit ownership representing the largest ownership category.
